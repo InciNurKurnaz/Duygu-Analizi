@@ -1,0 +1,3 @@
+Model,Doğruluk,Kesinlik,Duyarlılık,F1-Skoru
+Model_A_Temel_Optimize,0.6367,0.6366,0.6367,0.6343
+Model_B_Derin_Optimize,0.6356,0.6346,0.6356,0.6349
